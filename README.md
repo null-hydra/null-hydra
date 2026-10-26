@@ -1,89 +1,73 @@
-<div align="center">
-  <h1> Muntasir Islam (null-hydra)</h1>
-  <h3>Full-Stack Developer • Automation Engineer • Systems Builder</h3>
-  <p>
-    <i>Building resilient web architectures, fault-tolerant automation pipelines, and high-performance client-side tools.</i>
-  </p>
+*Note: the links and images in this document may point to external sources. Please review them before opening.*
 
-  <!-- Quick Links & Social Badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/muntasir-islam-shafin/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/null-hydra?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-    </a>
-    <a href="mailto:muntasir5693@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+# Hi there, I'm Muntasir Islam 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muntasir%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muntasir-islam-shafin)
+[![GitHub](https://img.shields.io/badge/GitHub-@null--hydra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/null-hydra)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-006A4E?style=for-the-badge)](https://github.com/null-hydra)
 
 ---
 
-### Engineering Philosophy & Focus
+##  About Me
 
-```yaml
-name: Muntasir Islam
-handle: null-hydra
-focus_areas:
-  - Full-Stack Web Applications (React, Next.js, Vue, Modern JS/TS)
-  - Browser Internals, Canvas/WebGL Rendering & Offline-First PWAs
-  - Concurrent Web Scraping, Headless Browser Orchestration & Task Queues
-  - Clean System Architecture & Developer Tooling
-current_mission: >
-  Designing software that solves real bottlenecks—moving heavy compute to the edge/client
-  and automating repetitive workflows with zero-downtime reliability.
-```
+I'm a builder, problem solver, and aspiring web developer based in **Dhaka, Bangladesh**. I enjoy turning real-world local challenges into practical, easy-to-use digital products that save people time and make everyday life simpler.
+
+- 🔭 **Currently building:** [**Buffer Dhaka**](https://github.com/null-hydra/buffer-dhaka) — a smart transit & arrival reliability planner built to help Dhaka commuters beat unpredictable traffic jams.
+- 🌱 **Currently learning:** Full-stack web development, cloud databases (**Supabase / PostgreSQL**), and automated data workflows.
+- 💡 **What drives me:** Designing clean, human-friendly interfaces backed by real data—without unnecessary complexity.
+- 🤝 **Open to:** Collaborating on civic tech, web applications, and open-source tools for Bangladesh and beyond.
 
 ---
 
-###  Featured & Upcoming Engineering Work
+## Tech Stack & Tools
 
-| Project | Core Architecture | Problem Solved | Status |
-|---|---|---|---|
-| **[StudySpark](https://github.com/null-hydra/StudySpark)** | `Vanilla JS` • `HTML5` • `CSS3` • `LocalStorage` | A distraction-free, zero-dependency student productivity & study workspace built for speed and simplicity. |  **Live / Active** |
-| **Distributed DOM & Change Monitor** *(In Progress)* | `Python` • `Playwright` • `Redis` • `Next.js` | Self-healing headless browser pipeline that tracks dynamic web updates and dispatches instant visual-diff alerts. |  **Building** |
-| **Client-Side Graphics & Media Studio** *(Planned)* | `TypeScript` • `Web Workers` • `HTML5 Canvas` | Zero-server media processing engine that executes heavy pixel/vector transformations at 60fps directly in the browser. |  **Prototyping** |
-
->  *Tip: Once you build one of the new projects, replace the placeholder links above with the live repository and deployment URLs!*
-
----
-
-### Technical Toolbox
-
-**Languages & Core**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Frontend & UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Frontend & Creative UI**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Backend, Data & Cloud
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google_Maps_Platform-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-**Backend, Automation & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Workflow & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### GitHub Telemetry
+## Featured Project
+
+### 🚏 [Buffer Dhaka — Smart Arrival Reliability Planner](https://github.com/null-hydra/buffer-dhaka)
+> *The fastest route on paper isn't always the route that gets you there on time.*
+
+An interactive transit & departure buffer planner tailored for commuters, students, and professionals in **Dhaka**.
+- **44 Two-Way Corridors:** Instant `Swap ⇄` direction toggle across 22 major Dhaka routes (MRT Line-6 Metro Rail, BRTC, Elevated Expressway, and local city buses).
+- **Doorstep Feeder Routing:** Pairs exact residential sectors/blocks with their physically closest Metro station or bus stand, comparing Reserve Rickshaw vs. Shared Leguna (`৳15`) fares.
+- **Statistical Arrival Buffers:** Calculates $P_{50}$ (Standard), $P_{80}$ (Office/Class), and $P_{95}$ (Exam/Flight) departure times with monsoon rain & Thursday peak rush modifiers.
+- **Live Cloud Database:** Powered by **Supabase PostgreSQL** to collect real commuter trip logs.
+
+🔗 **[Live Demo](https://null-hydra.github.io/buffer-dhaka/)** • 📂 **[Source Code](https://github.com/null-hydra/buffer-dhaka)**
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=null-hydra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Muntasir's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-hydra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=null-hydra&show_icons=true&theme=tokyonight&hide_border=true" alt="Muntasir's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-hydra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
 
-<div align="center">
-  <sub> <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
-</div>
+## 📫 Let's Connect!
+— ✉️ **Mail:** mailto:muntasir5693@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/muntasir-islam-shafin](https://www.linkedin.com/in/muntasir-islam-shafin)
+- 🐙 **GitHub:** [github.com/null-hydra](https://github.com/null-hydra)
+
+ *Always excited to build, learn, and collaborate on projects that make a real impact!*
