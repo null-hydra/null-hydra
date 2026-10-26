@@ -46,7 +46,8 @@ I'm a builder, problem solver, and aspiring web developer based in **Dhaka, Bang
 
 An interactive transit & departure buffer planner tailored for commuters, students, and professionals in **Dhaka**.
 - **44 Two-Way Corridors:** Instant `Swap ⇄` direction toggle across 22 major Dhaka routes (MRT Line-6 Metro Rail, BRTC, Elevated Expressway, and local city buses).
-- **Doorstep Feeder Routing:** Pairs exact residential sectors/blocks with their physically closest Metro station or bus stand, comparing Reserve Rickshaw vs. Shared Leguna (`৳15`) fares.
+- **Doorstep Feeder Routing:** Pairs exact residential sectors/blocks with their physically closest Metro station or bus stand
+  
 - **Statistical Arrival Buffers:** Calculates $P_{50}$ (Standard), $P_{80}$ (Office/Class), and $P_{95}$ (Exam/Flight) departure times with monsoon rain & Thursday peak rush modifiers.
 - **Live Cloud Database:** Powered by **Supabase PostgreSQL** to collect real commuter trip logs.
 
