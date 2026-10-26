@@ -1,5 +1,3 @@
-*Note: the links and images in this document may point to external sources. Please review them before opening.*
-
 # Hi there, I'm Muntasir Islam 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muntasir%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muntasir-islam-shafin)
@@ -66,8 +64,8 @@ An interactive transit & departure buffer planner tailored for commuters, studen
 ---
 
 ## 📫 Let's Connect!
-— ✉️ **Mail:** mailto:muntasir5693@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/muntasir-islam-shafin](https://www.linkedin.com/in/muntasir-islam-shafin)
 - 🐙 **GitHub:** [github.com/null-hydra](https://github.com/null-hydra)
+- 📧 **Mail:** muntasir5693@gmail.com
 
  *Always excited to build, learn, and collaborate on projects that make a real impact!*
